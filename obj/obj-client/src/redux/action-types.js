@@ -1,0 +1,8 @@
+export const AUTHOR_SUCESS='author_sucess'
+export const ERROR_MSG='error_msg'
+export const RECEIVE_USER='receive_user'
+export const UNSET_USER='unset_user'
+export const RECEIVE_USERLIST='receive_userlist'
+export const RECEIVE_MSGLIST='receive_msglist'
+export const RECEIVE_MSG='receive_msg'
+export const MSG_READ='msg_read'
